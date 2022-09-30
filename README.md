@@ -19,9 +19,9 @@ R squared: **0.738546**
 
 
 ## References
-HIV dataset:  
+#### HIV dataset:
 *AIDS Antiviral Screen Data.*  
 https://wiki.nci.nih.gov/display/NCIDTPdata/AIDS+Antiviral+Screen+Data
 
-ESOL dataset:  
+#### ESOL dataset:
 *Delaney, John S. "ESOL: estimating aqueous solubility directly from molecular structure." Journal of chemical information and computer sciences 44.3 (2004): 1000-1005.*
