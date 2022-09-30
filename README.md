@@ -7,12 +7,15 @@ Based on molecular fingerprint featurization by Deepchem library and Tensorflow 
 - Deepchem = 2.6.0
 - Tensorflow = 2.2.0
 
-## HIV prediction:  
-![1](https://user-images.githubusercontent.com/90392853/193249815-f2c0dc1b-1df1-4deb-88c6-3cf22afc8f33.GIF)  
-**Accuracy: 0.970894**  
-**AUC:  0.798847**  
+## Results
+### HIV prediction:  
+![1](https://user-images.githubusercontent.com/90392853/193253529-92fd4660-e377-4094-834b-079d7946821b.GIF)  
+Accuracy(random split): **0.971**  
+ROC-AUC(random split):  **0.799**  
 
-## Water solubility estimation
+### Water solubility estimation:
+RMSE: **1.194**  
+R squared: **0.738546**  
 
 
 ## References
