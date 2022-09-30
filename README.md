@@ -1,6 +1,6 @@
 # Deepchem_Practice
 Simple fully connected neural network models estimating drug efficacy against HIV and drug water solubility.  
-Based on molecular fingerprint featurization by Deepchem library.  
+Based on molecular fingerprint featurization by Deepchem library and Tensorflow DNN models.  
 
 ## Environment
 - Python = 3.7
@@ -8,9 +8,9 @@ Based on molecular fingerprint featurization by Deepchem library.
 - Tensorflow = 2.2.0
 
 ## HIV prediction:  
-![1](https://user-images.githubusercontent.com/90392853/193248850-b4721ad1-a25c-4de5-aa68-22ea7e375bdd.png)
-Accuracy: 0.970894  
-Highest AUC: 0.798847  
+![1](https://user-images.githubusercontent.com/90392853/193249815-f2c0dc1b-1df1-4deb-88c6-3cf22afc8f33.GIF)  
+**Accuracy: 0.970894**  
+**AUC:  0.798847**  
 
 ## Water solubility estimation
 
